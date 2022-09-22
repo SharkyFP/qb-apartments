@@ -32,7 +32,7 @@ Apartments System for QB-Core Framework :office:
 ## Features
 - Door Bell
 - Stash
-- Log Out Marker
+- Log Out
 - Saved Outfits
 
 ## Installation
