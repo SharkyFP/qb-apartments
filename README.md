@@ -1,5 +1,5 @@
 # qb-apartments
-Apartments System for QB-Core Framework :office:
+Apartments System with target for QB-Core Framework :office:
 
 # License
 
